@@ -1,6 +1,6 @@
 # Config file for Pages site
 # 
 # Theme. See https://pages.github.com/themes/ for GH supported themes.
-theme: jekyll-theme-cayman
+theme: jekyll-theme-architect
 title: An Experiment in GitHub Pages
 description: Nothing more than this, so far.

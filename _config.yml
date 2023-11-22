@@ -1,2 +1,4 @@
 # Config file for Pages site
-theme: jekyll-theme-architect
+# 
+# Theme. See https://pages.github.com/themes/ for GH supported themes.
+theme: jekyll-theme-minimal
